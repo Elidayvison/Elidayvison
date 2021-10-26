@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[! [Estatísticas GitHub Elidayvison] (https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&theme=vision-friendly-dark)] (https://github.com/Elidayvison/github-readme-stats)
+[! [Estatísticas GitHub Elidayvison] (https://github-readme-stats.vercel.app/api?username=elidayvison&show_icons=true&theme=vision-friendly-dark)] (https://github.com/elidayvison/github-readme-stats)]
 
 
 
