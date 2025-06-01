@@ -1,6 +1,6 @@
 - 👋 Eu me chamo Elidayvison
 - 👀 Sou Nordestino Raiz, Puramente Pernambucano.
-- 🌱 Atualmento desenvolvendo aplicações em Flutter, JS,R e .NET e outras coisas que aparecem 
+- 🌱 Atualmento desenvolvendo aplicações em Python, Flutter, JS,R e .NET e outras coisas que aparecem 
 - 📫 https://www.linkedin.com/in/elidayvison
 
 
