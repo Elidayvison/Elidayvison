@@ -24,4 +24,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+
+ler em casa
+https://github.com/Elidayvison/dio-lab-open-source/commit/771c48c6551da97919ecfbf072626a229b8f5fb6#diff-31b4566a02f57609b6123fd9ab34c5b77f134364ef191a169971b97f736999e3
+https://github.com/Elidayvison/dio-lab-open-source/blob/main/community/1LUCASPEDROSO.md
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 .
